@@ -1,0 +1,16 @@
+{
+	"name": "Road to 2.0",
+	"short_name": "Road to 2.0",
+	"description": "Road to 2.0",
+	"start_url": "index.html",
+	"display": "standalone",
+	"orientation": "any",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		}
+	]
+}
